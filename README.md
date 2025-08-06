@@ -9,9 +9,4 @@ Clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats) u
  Step 6: Apply Filters and Review
  Step 7: Save Your Clean File
 
-# data-visualization-task2
-Step 1: Load the Dataset
-Step 2: Clean dataset
-Step 3: Save Your Clean File
-Step 4: visualize data on Power BI
-step 5: save file
+
